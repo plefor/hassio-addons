@@ -1,0 +1,4 @@
+# https://developers.home-assistant.io/docs/add-ons/repository#repository-configuration
+name: Plefor Home Assistant add-on repository
+url: "https://github.com/plefor/hassio-addons"
+maintainer: Plefor <hassio-addons@plefor.com>
